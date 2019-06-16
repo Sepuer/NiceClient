@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# 补充
+*.ilk
+*.pdb
