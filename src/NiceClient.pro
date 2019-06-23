@@ -38,6 +38,7 @@ DEFINES += QT_DEPRECATED_WARNINGS
 CONFIG += c++11
 
 SOURCES += \
+        LogRecord.cpp \
         NetEngine.cpp \
         NetSocket.cpp \
         main.cpp \
@@ -45,6 +46,7 @@ SOURCES += \
 
 HEADERS += \
         Def.h \
+        LogRecord.h \
         MainWindow.h \
         NetEngine.h \
         NetSocket.h
